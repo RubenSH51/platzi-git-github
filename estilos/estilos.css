@@ -46,7 +46,7 @@ p.otroparrafo
 
 .cabecera p
 {
-	background-color: #0722A7;
+	background-color: #4F6CF8;
 	color: white;
 	padding: 10px;
 	font-size: 30px;
@@ -66,6 +66,17 @@ p.otroparrafo
 	padding: 25px 10px;
 }
 
+.logo
+{
+	/*display: inline-block;*/
+	background-image: url('../imagenes/dragon.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	width: 30px;
+	height: 30px;
+	margin-right: 10px
+}
 
 
 
