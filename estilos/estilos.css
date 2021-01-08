@@ -6,9 +6,14 @@
 
 }
 
-.container
+body
 {
+	background-color: #393939
+}
 
+main.container
+{
+	background-color: white;
 	width: 70%;
 	height: auto;
 	margin: 0 auto;
