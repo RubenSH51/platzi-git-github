@@ -11,19 +11,14 @@
 
 	width: 70%;
 	height: auto;
-	/*padding: 10px;*/
 	margin: 0 auto;
 	border: 1px solid black;
-
-
-	/*color: blue;*/
-
 
 }
 
 .container p
 {
-/*	margin: 15px 0px;*/
+
 	font-size: 18px;
 	color: #434343;
 	padding: 0px 20px;
@@ -70,7 +65,6 @@ p.otroparrafo
 
 .logo
 {
-	/*display: inline-block;*/
 	background-image: url('../imagenes/dragon.png');
 	background-repeat: no-repeat;
 	background-position: center;
@@ -81,56 +75,9 @@ p.otroparrafo
 }
 
 
-.footer
-{
-	text-align: center;
-	/*color: white;*/
-	background-color: #595858;
-}
-
-.footer p
-{
-	color: white;
-	font-size: 22px;
-	font-weight: bold;
-	letter-spacing: 3px;
-	padding: 10px;
-}
 
 
 
 
 
 
-
-
-
-
-/**
-{
-	padding: 10px;
-	margin-bottom: 5px;
-}
-
-header 
-{
-	background-color: #C3FAD9;
-	font-size: 27px;
-}
-
-.container
-{
-	background-color: #B7AEFB;
-	color: #FD1105;
-}
-
-footer
-{
-	background-color: #D3DCA0;
-}
-
-h1,h2
-{
-	text-align: center;
-	font-family: "Arial";
-}*/
