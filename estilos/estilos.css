@@ -3,6 +3,7 @@
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
+
 }
 
 .container
@@ -13,6 +14,7 @@
 	/*padding: 10px;*/
 	margin: 0 auto;
 	border: 1px solid black;
+
 
 	/*color: blue;*/
 
@@ -79,7 +81,21 @@ p.otroparrafo
 }
 
 
+.footer
+{
+	text-align: center;
+	/*color: white;*/
+	background-color: #595858;
+}
 
+.footer p
+{
+	color: white;
+	font-size: 22px;
+	font-weight: bold;
+	letter-spacing: 3px;
+	padding: 10px;
+}
 
 
 
