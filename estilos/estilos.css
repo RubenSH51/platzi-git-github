@@ -79,7 +79,21 @@ p.otroparrafo
 	margin-right: 10px
 }
 
+.footer
+{
+	text-align: center;
+	background-color: #7C7B7B;
+}
 
+.footer p
+{
+	color: white;
+	font-size: 22px;
+	text-align: center;
+	padding: 10px;
+	letter-spacing: 3px;
+	font-weight: bold;
+}
 
 
 
